@@ -1,0 +1,4 @@
+Label,"coordinate_system",Url,Abstract
+項目,坐標系統,連結網址,描述
+鄉鎮市區界線(WMS),經緯度（度）,http://maps.nlsc.gov.tw/OpenData/wms,"http://wms.nlsc.gov.tw/wms?SRS=EPSG:4326&HEIGHT=400&WIDTH=600&REQUEST=GetMap&TRANSPARENT=TRUE&VERSION=1.1.1&LAYERS=EMAP5_OPENDATA&STYLES=default&BBOX=120.190057,25.302059,122.200555,23.843379&FORMAT=image%2Fjpeg"
+鄉鎮市區界線(WMTS),經緯度（度）,http://maps.nlsc.gov.tw/OpenData/wmts,http://wmts.nlsc.gov.tw/wmts/EMAP5_OPENDATA/default/EPSG%3A3857/6/27/53
